@@ -1,0 +1,236 @@
+.awsui_page_global-footer-awsui_page_global-footer-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background: #FFFFFF;
+}
+
+.awsui_page_global-footer-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-path-1 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    background: rgb(35, 47, 62);
+}
+
+.awsui_page_global-footer-0-0-0 {
+    display: flex;
+    padding-left: 32px;
+    padding-right: 14px;
+}
+
+.awsui_page_global-footer-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.142841815948486px;
+    padding-bottom: 2.4268766192544717px;
+}
+
+.awsui_page_global-footer-0-0-0-0-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-_-6 {
+    width: 18.00002145767212px;
+    height: 15.430281564800609px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.awsui_page_global-footer-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4.999978542327881px;
+    padding-bottom: 1px;
+}
+
+.awsui_page_global-footer-0-0-0-1-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-feedback-1 {
+    width: 66px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_page_global-footer-0-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 22px;
+    padding-top: 3.857125997543335px;
+    padding-bottom: 2.7142841815948486px;
+}
+
+.awsui_page_global-footer-0-0-0-2-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-_-3 {
+    width: 15.428589820861816px;
+    height: 15.42858982086182px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.awsui_page_global-footer-0-0-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5.571410179138184px;
+    padding-bottom: 1px;
+}
+
+.awsui_page_global-footer-0-0-0-3-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-english-1 {
+    width: 49px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_page_global-footer-0-0-0-4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 189px;
+    padding-top: 1px;
+}
+
+.awsui_page_global-footer-0-0-0-4-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-_2 {
+    width: 416px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #CCCCCC;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_page_global-footer-0-0-0-5 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 22px;
+    padding-top: 1px;
+}
+
+.awsui_page_global-footer-0-0-0-5-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-privacy_policy-1 {
+    width: 76px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_page_global-footer-0-0-0-6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 22px;
+    padding-top: 1px;
+}
+
+.awsui_page_global-footer-0-0-0-6-0 {
+    display: flex;
+}
+
+.awsui_page_global-footer-terms_of_use-4 {
+    width: 72px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

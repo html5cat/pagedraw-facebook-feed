@@ -1,0 +1,93 @@
+.icons-biggest-icons-biggest-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 3px;
+    padding-bottom: 12px;
+    background: #FFFFFF;
+    min-height: 100vh;
+}
+
+.icons-biggest-0 {
+    display: flex;
+    padding-left: 11px;
+    padding-right: 27px;
+}
+
+.icons-biggest-icons_actions_default-1 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-biggest-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+.icons-biggest-0-1-0 {
+    display: flex;
+}
+
+.icons-biggest-resize_normal_icons-1 {
+    width: 246px;
+    flex-shrink: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #DF3312;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

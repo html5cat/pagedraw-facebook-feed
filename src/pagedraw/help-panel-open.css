@@ -1,0 +1,221 @@
+.help-panel-open-help-panel-open-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-bottom: 6px;
+    background: #B9B9B9;
+    min-height: 100vh;
+}
+
+.help-panel-open-0 {
+    display: flex;
+    padding-left: 70px;
+    padding-right: 33px;
+}
+
+.help-panel-open-path-15 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 17px;
+    padding-bottom: 481.9999999999992px;
+    box-shadow: 0px 1px 2px 0px rgba(30,56,48,0.25);
+    background: rgb(255, 255, 255);
+}
+
+.help-panel-open-0-0-0 {
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.help-panel-open-headline-1 {
+    width: 184px;
+    flex-shrink: 0;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.help-panel-open-icons_actions_default-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    flex-shrink: 0;
+}
+
+.help-panel-open-0-0-1 {
+    display: flex;
+    margin-top: 15px;
+}
+
+.help-panel-open-path-1 {
+    width: 250px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgb(234, 237, 237);
+}
+
+.help-panel-open-0-0-2 {
+    display: flex;
+    margin-top: 29px;
+    padding-left: 20px;
+    padding-right: 22px;
+}
+
+.help-panel-open-description-5 {
+    width: 208px;
+    flex-shrink: 0;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.help-panel-open-0-0-3 {
+    display: flex;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 38px;
+}
+
+.help-panel-open-link-3 {
+    width: 165px;
+    flex-shrink: 0;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.help-panel-open-awsui_icons_actions_default-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 11px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    flex-shrink: 0;
+}
+
+.help-panel-open-0-0-4 {
+    display: flex;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 22px;
+}
+
+.help-panel-open-path-12 {
+    width: 208px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgb(234, 237, 237);
+}
+
+.help-panel-open-0-0-5 {
+    display: flex;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 22px;
+}
+
+.help-panel-open-section-1 {
+    width: 208px;
+    flex-shrink: 0;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.help-panel-open-0-0-6 {
+    display: flex;
+    margin-top: 10px;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+
+.help-panel-open-description-1 {
+    width: 208px;
+    flex-shrink: 0;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

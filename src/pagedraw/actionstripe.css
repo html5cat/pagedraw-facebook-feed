@@ -1,0 +1,237 @@
+.actionstripe-actionstripe-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #FFFFFF;
+    min-height: 100vh;
+}
+
+.actionstripe-0 {
+    display: flex;
+    padding-left: 14px;
+    padding-right: 28px;
+}
+
+.actionstripe-path-7 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    border-radius: 3px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #545B64;
+}
+
+.actionstripe-0-0-0 {
+    display: flex;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+.actionstripe-6 {
+    width: 83px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.actionstripe-path-8 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    border-radius: 3px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #545B64;
+}
+
+.actionstripe-0-1-0 {
+    display: flex;
+    padding-left: 19px;
+    padding-right: 20px;
+}
+
+.actionstripe-6_ {
+    width: 26px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.actionstripe-path-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    border-radius: 3px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #545B64;
+}
+
+.actionstripe-0-2-0 {
+    display: flex;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+.actionstripe-6_2 {
+    width: 44px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.actionstripe-path-5 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    border-radius: 3px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #545B64;
+}
+
+.actionstripe-0-3-0 {
+    display: flex;
+    padding-left: 19px;
+    padding-right: 9.000000000000199px;
+}
+
+.actionstripe-6_3 {
+    width: 50px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.actionstripe-0-3-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 11px;
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+
+.actionstripe-0-3-0-1-0 {
+    display: flex;
+}
+
+.actionstripe-fill_1 {
+    width: 10px;
+    height: 8px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.actionstripe-path-18 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    border-radius: 3px;
+    background: rgb(236, 114, 17);
+}
+
+.actionstripe-0-4-0 {
+    display: flex;
+    padding-left: 20px;
+    padding-right: 23px;
+}
+
+.actionstripe-6_20 {
+    width: 135px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

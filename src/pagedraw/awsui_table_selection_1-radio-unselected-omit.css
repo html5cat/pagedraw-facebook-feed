@@ -1,0 +1,62 @@
+.awsui_table_selection_1-radio-unselected-omit-awsui_table_selection_1-r {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background: #FFFFFF;
+}
+
+.awsui_table_selection_1-radio-unselected-omit-0 {
+    display: flex;
+}
+
+.awsui_table_selection_1-radio-unselected-omit-awsui_table_selection_1 {
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

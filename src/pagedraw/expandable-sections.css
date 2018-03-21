@@ -1,0 +1,227 @@
+.expandable-sections-expandable-sections-4 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 11px;
+    padding-bottom: 49px;
+    background: #FFFFFF;
+    min-height: 100vh;
+}
+
+.expandable-sections-0 {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 16px;
+}
+
+.expandable-sections-section-rectangle-7 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url('https://pagedraw-images.s3-us-west-1.amazonaws.com/7762244915918853-1521598431536-4D2D95FC-AC10-43EB-B71C-8E9AB46D38DC.png');
+    background-size: 100% 100%;
+}
+
+.expandable-sections-0-0-0 {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 204px;
+}
+
+.expandable-sections-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+.expandable-sections-0-0-0-0-0 {
+    display: flex;
+}
+
+.expandable-sections-down-arrow-4 {
+    width: 9.999529013405493px;
+    height: 8px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.expandable-sections-section_name-7 {
+    width: 83px;
+    flex-shrink: 0;
+    margin-left: 9.000470986594507px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.expandable-sections-1 {
+    display: flex;
+    margin-top: 16px;
+    padding-left: 25.0002093595009px;
+    padding-right: 164px;
+}
+
+.expandable-sections-1-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5.540100000000166px;
+    padding-bottom: 6.459899999999834px;
+}
+
+.expandable-sections-1-0-0 {
+    display: flex;
+}
+
+.expandable-sections-down-arrow-1 {
+    width: 9.999529013405493px;
+    height: 8px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.expandable-sections-section_name-hovered-1 {
+    width: 139px;
+    flex-shrink: 0;
+    margin-left: 9.000261627093607px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.expandable-sections-2 {
+    display: flex;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 26px;
+}
+
+.expandable-sections-2-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.expandable-sections-2-0-0 {
+    display: flex;
+}
+
+.expandable-sections-fill_1 {
+    width: 10px;
+    height: 8px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.expandable-sections-section_name-1 {
+    width: 277px;
+    flex-shrink: 0;
+    margin-left: 9px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.expandable-sections-3 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 15px;
+    padding-right: 16px;
+}
+
+.expandable-sections-section-borderline-5 {
+    width: 316px;
+    height: 1px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.expandable-sections-4 {
+    display: flex;
+    margin-top: 4px;
+    padding-left: 25px;
+    padding-right: 26px;
+}
+
+.expandable-sections-section_text_-_in_ad-8 {
+    width: 296px;
+    flex-shrink: 0;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

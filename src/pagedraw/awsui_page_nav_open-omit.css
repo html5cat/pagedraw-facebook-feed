@@ -1,0 +1,141 @@
+.awsui_page_nav_open-omit-awsui_page_nav_open-omit-6 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background: #FFFFFF;
+}
+
+.awsui_page_nav_open-omit-0 {
+    display: flex;
+}
+
+.awsui_page_nav_open-omit-path-1 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 38px;
+    padding-bottom: 379px;
+    box-shadow: 0px 0px 2px 0px rgba(30,56,48,0.25);
+    background: rgb(255, 255, 255);
+    border: 1px solid #CECECE;
+}
+
+.awsui_page_nav_open-omit-0-0-0 {
+    display: flex;
+    padding-left: 39px;
+    padding-right: 9px;
+}
+
+.awsui_page_nav_open-omit-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.awsui_page_nav_open-omit-0-0-0-0-0 {
+    display: flex;
+}
+
+.awsui_page_nav_open-omit-0-0-0-0-0-0 {
+    width: 180px;
+    height: 20px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.awsui_page_nav_open-omit-console_name-8 {
+    width: 180px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_page_nav_open-omit-icon_close-2 {
+    width: 12px;
+    height: 12px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 152px;
+    border-width: 0px;
+}
+
+.awsui_page_nav_open-omit-0-0-1 {
+    display: flex;
+    margin-top: 28px;
+    padding-left: 39px;
+    padding-right: 9px;
+}
+
+.awsui_page_nav_open-omit-page_nav_open_list-1 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.awsui_page_nav_open-omit-0-0-2 {
+    display: flex;
+    margin-top: 28px;
+    padding-left: 39px;
+    padding-right: 9px;
+}
+
+.awsui_page_nav_open-omit-page_nav_open_section-1 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

@@ -1,0 +1,105 @@
+.awsui_form_section-hover-awsui_form_section-hover-9 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-bottom: 0.4599999999991269px;
+    background: #FFFFFF;
+}
+
+.awsui_form_section-hover-0 {
+    display: flex;
+}
+
+.awsui_form_section-hover-section-rectangle-6 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 3.7817128417955246px;
+    padding-bottom: 5.758287158204439px;
+    background-image: url('https://pagedraw-images.s3-us-west-1.amazonaws.com/6063585644815932-1521598430063-2EDC8E6C-053C-4CE3-9931-CED31657285E.png');
+    background-size: 100% 100%;
+}
+
+.awsui_form_section-hover-0-0-0 {
+    display: flex;
+    padding-left: 10.000209359500786px;
+    padding-right: 204px;
+}
+
+.awsui_form_section-hover-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 7.758387158202822px;
+    padding-bottom: 4.241612841797178px;
+}
+
+.awsui_form_section-hover-0-0-0-0-0 {
+    display: flex;
+}
+
+.awsui_form_section-hover-down-arrow-1 {
+    width: 9.999529013405663px;
+    height: 8px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.awsui_form_section-hover-section_name-4 {
+    width: 83px;
+    flex-shrink: 0;
+    margin-left: 9.00026162709355px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

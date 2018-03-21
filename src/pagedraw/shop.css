@@ -1,0 +1,381 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:|Montserrat:300');
+
+.shop-shop-00 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 24px;
+    padding-bottom: 72px;
+    background: #FFFFFF;
+}
+
+.shop-0 {
+    display: flex;
+}
+
+.shop-navigation_bar-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.shop-0-0-0 {
+    display: flex;
+    padding-left: 15.75px;
+    padding-right: 8.5px;
+}
+
+.shop-the_art_museum-0 {
+    width: 50px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.shop-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 74.75px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+.shop-0-0-0-1-0 {
+    display: flex;
+}
+
+.shop-shop-0 {
+    width: 94px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.shop-0-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 108px;
+    padding-top: 9px;
+    padding-bottom: 8px;
+}
+
+.shop-0-0-0-2-0 {
+    display: flex;
+}
+
+.shop-bounds-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.shop-0-0-0-2-0-0-0 {
+    display: flex;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.shop-path-0 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.shop-0-0-0-2-0-0-1 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.shop-path-00 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.shop-0-0-0-2-0-0-2 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.shop-path-000 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.shop-1 {
+    display: flex;
+    margin-top: 328px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.shop-product_description-0 {
+    display: flex;
+    flex-direction: column;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.shop-1-0-0 {
+    display: flex;
+    padding-left: 3.455078125px;
+    padding-right: 0.544921875px;
+}
+
+.shop-braun_classic_watch-0 {
+    width: 347px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.shop-1-0-1 {
+    display: flex;
+    padding-left: 3.455078125px;
+    padding-right: 7px;
+}
+
+.shop-this_braun_watch_is_a_reissue_of_the_original_1 {
+    width: 321px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(151,151,151,1);
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.shop-1-0-1-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 13.544921875px;
+    padding-top: 61px;
+    padding-bottom: 3px;
+}
+
+.shop-1-0-1-1-0 {
+    display: flex;
+}
+
+.shop-vector_2 {
+    width: 6px;
+    height: 8px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.shop-2 {
+    display: flex;
+    padding-left: 14.455078125px;
+    padding-right: 11.544921875px;
+}
+
+.shop-product_price-0 {
+    display: flex;
+    flex-direction: column;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.shop-2-0-0 {
+    display: flex;
+    padding-left: 3.455078125px;
+    padding-right: 1px;
+}
+
+.shop-_1 {
+    width: 172px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(212,212,212,1);
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.shop-2-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 103.044921875px;
+    padding-top: 22.5px;
+    padding-bottom: 22.5px;
+}
+
+.shop-2-0-0-1-0 {
+    display: flex;
+}
+
+.shop-rectangle_5 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999999983037696px;
+    padding-bottom: 4.635986311162696px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.shop-2-0-0-1-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.shop-vector-0 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.shop-2-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 7.75px;
+    padding-top: 22.5px;
+    padding-bottom: 23.5px;
+}
+
+.shop-2-0-0-2-0 {
+    display: flex;
+}
+
+.shop-0-0 {
+    width: 18px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(212,212,212,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.shop-2-0-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 7.75px;
+    padding-top: 22.5px;
+    padding-bottom: 22.5px;
+}
+
+.shop-2-0-0-3-0 {
+    display: flex;
+}
+
+.shop-rectangle_5-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999999983037696px;
+    padding-bottom: 4.635986311162696px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.shop-2-0-0-3-0-0-0 {
+    display: flex;
+    padding-left: 5.507354736328125px;
+    padding-right: 4.12866159879195px;
+}
+
+.shop-vector-00 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

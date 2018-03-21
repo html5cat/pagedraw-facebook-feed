@@ -1,0 +1,811 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:');
+
+.collections-collections-00 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background: #FFFFFF;
+}
+
+.collections-0 {
+    display: flex;
+}
+
+.collections-status_bar-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-0-0-0 {
+    display: flex;
+    padding-left: 2.6416015625px;
+    padding-right: 2.3583984375px;
+}
+
+.collections-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+}
+
+.collections-0-0-0-0-0 {
+    display: flex;
+}
+
+.collections-frame_6 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-0-0-0-0-0-0-0 {
+    display: flex;
+    padding-left: 3.3583984375px;
+    padding-right: 26.6416015625px;
+}
+
+.collections-0-0-0-0-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.collections-0-0-0-0-0-0-0-0-0 {
+    display: flex;
+}
+
+.collections-oval_1 {
+    width: 5.5px;
+    height: 5.5px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.collections-0-0-0-0-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.collections-0-0-0-0-0-0-0-1-0 {
+    display: flex;
+}
+
+.collections-oval_1_ {
+    width: 5.5px;
+    height: 5.5px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.collections-0-0-0-0-0-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.collections-0-0-0-0-0-0-0-2-0 {
+    display: flex;
+}
+
+.collections-oval_1_c {
+    width: 5.5px;
+    height: 5.5px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.collections-0-0-0-0-0-0-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.collections-0-0-0-0-0-0-0-3-0 {
+    display: flex;
+}
+
+.collections-path-00 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    background: rgba(218,218,218,1);
+}
+
+.collections-0-0-0-0-0-0-0-3-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+
+.collections-path-0 {
+    width: 4.5px;
+    height: 4.5px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.collections-0-0-0-0-0-0-0-4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.collections-0-0-0-0-0-0-0-4-0 {
+    display: flex;
+}
+
+.collections-path-0000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    background: rgba(218,218,218,1);
+}
+
+.collections-0-0-0-0-0-0-0-4-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+
+.collections-path-000 {
+    width: 4.5px;
+    height: 4.5px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.collections-figma-0 {
+    width: 35px;
+    flex-shrink: 0;
+    margin-left: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-0-0-0-0-0-0-0-6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 6.5px;
+    padding-top: 2.5px;
+    padding-bottom: 3.5px;
+}
+
+.collections-0-0-0-0-0-0-0-6-0 {
+    display: flex;
+}
+
+.collections-0-0-0-0-0-0-0-6-0-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.collections-0-0-0-0-0-0-0-6-0-0-0 {
+    display: flex;
+}
+
+.collections-0-0-0-0-0-0-0-6-0-0-0-0 {
+    width: 12px;
+    height: 5.637699127197266px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.collections-path-00000 {
+    width: 12px;
+    height: 3.4071779251098633px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(252,252,252,1);
+}
+
+.collections-path-000000 {
+    width: 8.073974609375px;
+    height: 2.6373701095581055px;
+    flex-grow: 1;
+    position: absolute;
+    top: 3.00032901763916px;
+    left: 1.9612655639648438px;
+    background: rgba(252,252,252,1);
+}
+
+.collections-0-0-0-0-0-0-0-6-1 {
+    display: flex;
+    margin-top: 0.3210411071777344px;
+    padding-left: 3.9495162963867188px;
+    padding-right: 3.9565200805664062px;
+}
+
+.collections-path-000002 {
+    width: 4.093963623046875px;
+    height: 3.041259765625px;
+    flex-shrink: 0;
+    background: rgba(252,252,252,1);
+}
+
+.collections-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40.8583984375px;
+    padding-top: 2.5px;
+    padding-bottom: 0.5px;
+}
+
+.collections-0-0-0-1-0 {
+    display: flex;
+}
+
+.collections-9 {
+    width: 50px;
+    flex-shrink: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-frame_8 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 71.1416015625px;
+    padding-top: 2.5px;
+    padding-bottom: 0.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-0-0-0-2-0 {
+    display: flex;
+    padding-left: 19.8583984375px;
+    padding-right: 3.6416015625px;
+}
+
+.collections-0-0-0-2-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+.collections-0-0-0-2-0-0-0 {
+    display: flex;
+}
+
+.collections-vector_3 {
+    width: 5px;
+    height: 10px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(252,252,252,1);
+}
+
+.collections-4 {
+    width: 25px;
+    flex-shrink: 0;
+    margin-left: 5px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-0-0-0-2-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+.collections-0-0-0-2-0-2-0 {
+    display: flex;
+}
+
+.collections-path-0000000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5263156890869141px;
+    padding-bottom: 0.5263156890869141px;
+    background: rgba(218,218,218,1);
+}
+
+.collections-0-0-0-2-0-2-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+
+.collections-path-0000004 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.47368431091308594px;
+    padding-bottom: 0.47368431091308594px;
+    background: rgba(218,218,218,1);
+}
+
+.collections-0-0-0-2-0-2-0-0-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 12px;
+}
+
+.collections-charge-0 {
+    width: 9px;
+    height: 8px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.collections-0-0-0-2-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5px;
+    padding-top: 5.5px;
+    padding-bottom: 6.035444259643555px;
+}
+
+.collections-0-0-0-2-0-3-0 {
+    display: flex;
+}
+
+.collections-_-0 {
+    width: 1.5px;
+    height: 3.4645557403564453px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.collections-1 {
+    display: flex;
+}
+
+.collections-navigation_bar-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-1-0-0 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.collections-the_art_museum-0 {
+    width: 50px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-1-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 65.5px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+.collections-1-0-0-1-0 {
+    display: flex;
+}
+
+.collections-collections-0 {
+    width: 120px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.collections-1-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 91.5px;
+    padding-top: 8.5px;
+    padding-bottom: 8.5px;
+}
+
+.collections-1-0-0-2-0 {
+    display: flex;
+}
+
+.collections-bounds-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-1-0-0-2-0-0-0 {
+    display: flex;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.collections-path-0000020 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.collections-1-0-0-2-0-0-1 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.collections-path-000003 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.collections-1-0-0-2-0-0-2 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.collections-path-0000039 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.collections-2 {
+    display: flex;
+}
+
+.collections-search_bar-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 12px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-2-0-0 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.collections-rectangle-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5.9906005859375px;
+    padding-bottom: 6.00939888347807px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 2px solid rgba(255,71,58,1);
+}
+
+.collections-2-0-0-0-0 {
+    display: flex;
+    padding-left: 8.75px;
+    padding-right: 4.68629067319489px;
+}
+
+.collections-2-0-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5.305844297254225e-7px;
+}
+
+.collections-2-0-0-0-0-0-0 {
+    display: flex;
+}
+
+.collections-explore_the_collection-0 {
+    width: 204px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-2-0-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 98.27943803284052px;
+    padding-top: 3.7156982421875px;
+}
+
+.collections-2-0-0-0-0-1-0 {
+    display: flex;
+}
+
+.collections-ellipse-0 {
+    width: 28.284271293964593px;
+    height: 28.28430228839693px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 2px solid rgba(255,71,58,1);
+}
+
+.collections-2-0-1 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.collections-advanced_search-0 {
+    width: 348px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-3 {
+    display: flex;
+}
+
+.collections-content-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-3-0-0 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.collections-table_data-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 24px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.collections-3-0-0-0-0 {
+    display: flex;
+}
+
+.collections-image-4 {
+    width: 165px;
+    height: 124px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.collections-image-1 {
+    width: 165px;
+    height: 124px;
+    flex-shrink: 0;
+    margin-left: 18px;
+    border-width: 0px;
+}
+
+.collections-3-0-0-0-1 {
+    display: flex;
+    margin-top: 6px;
+}
+
+.collections-decorative_arts_crafts-0 {
+    width: 165px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-american_impressionism-0 {
+    width: 165px;
+    flex-shrink: 0;
+    margin-left: 18px;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-3-0-0-0-2 {
+    display: flex;
+    margin-top: 12px;
+}
+
+.collections-image-5 {
+    width: 165px;
+    height: 124px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.collections-image-7 {
+    width: 165px;
+    height: 124px;
+    flex-shrink: 0;
+    margin-left: 18px;
+    border-width: 0px;
+}
+
+.collections-3-0-0-0-3 {
+    display: flex;
+    margin-top: 6px;
+}
+
+.collections-de_stijl-0 {
+    width: 165px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-cubism-0 {
+    width: 165px;
+    flex-shrink: 0;
+    margin-left: 18px;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.collections-3-0-0-0-4 {
+    display: flex;
+    margin-top: 6px;
+}
+
+.collections-image-3 {
+    width: 165px;
+    height: 124px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.collections-image-8 {
+    width: 165px;
+    height: 124px;
+    flex-shrink: 0;
+    margin-left: 18px;
+    border-width: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

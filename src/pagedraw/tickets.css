@@ -1,0 +1,1208 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:');
+
+.tickets-tickets-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-bottom: 12px;
+    background: #FFFFFF;
+}
+
+.tickets-0 {
+    display: flex;
+}
+
+.tickets-status_bar-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-0-0-0 {
+    display: flex;
+    padding-left: 2.6416015625px;
+    padding-right: 2.3583984375px;
+}
+
+.tickets-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+}
+
+.tickets-0-0-0-0-0 {
+    display: flex;
+}
+
+.tickets-frame_6 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-0-0-0-0-0-0-0 {
+    display: flex;
+    padding-left: 3.3583984375px;
+    padding-right: 26.6416015625px;
+}
+
+.tickets-0-0-0-0-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.tickets-0-0-0-0-0-0-0-0-0 {
+    display: flex;
+}
+
+.tickets-oval_1 {
+    width: 5.5px;
+    height: 5.5px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.tickets-0-0-0-0-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.tickets-0-0-0-0-0-0-0-1-0 {
+    display: flex;
+}
+
+.tickets-oval_1_ {
+    width: 5.5px;
+    height: 5.5px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.tickets-0-0-0-0-0-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.tickets-0-0-0-0-0-0-0-2-0 {
+    display: flex;
+}
+
+.tickets-oval_1_c {
+    width: 5.5px;
+    height: 5.5px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.tickets-0-0-0-0-0-0-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.tickets-0-0-0-0-0-0-0-3-0 {
+    display: flex;
+}
+
+.tickets-path-00 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-0-0-0-0-0-0-0-3-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+
+.tickets-path-0 {
+    width: 4.5px;
+    height: 4.5px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-0-0-0-0-0-0-0-4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5px;
+    padding-top: 4.5px;
+    padding-bottom: 5px;
+}
+
+.tickets-0-0-0-0-0-0-0-4-0 {
+    display: flex;
+}
+
+.tickets-path-0000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-0-0-0-0-0-0-0-4-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+
+.tickets-path-000 {
+    width: 4.5px;
+    height: 4.5px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-figma-0 {
+    width: 35px;
+    flex-shrink: 0;
+    margin-left: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-0-0-0-0-0-0-0-6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 6.5px;
+    padding-top: 2.5px;
+    padding-bottom: 3.5px;
+}
+
+.tickets-0-0-0-0-0-0-0-6-0 {
+    display: flex;
+}
+
+.tickets-0-0-0-0-0-0-0-6-0-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.tickets-0-0-0-0-0-0-0-6-0-0-0 {
+    display: flex;
+}
+
+.tickets-0-0-0-0-0-0-0-6-0-0-0-0 {
+    width: 12px;
+    height: 5.637699127197266px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.tickets-path-00000 {
+    width: 12px;
+    height: 3.4071779251098633px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(252,252,252,1);
+}
+
+.tickets-path-000001 {
+    width: 8.073974609375px;
+    height: 2.6373701095581055px;
+    flex-grow: 1;
+    position: absolute;
+    top: 3.00032901763916px;
+    left: 1.9612655639648438px;
+    background: rgba(252,252,252,1);
+}
+
+.tickets-0-0-0-0-0-0-0-6-1 {
+    display: flex;
+    margin-top: 0.3210411071777344px;
+    padding-left: 3.9495162963867188px;
+    padding-right: 3.9565200805664062px;
+}
+
+.tickets-path-000000 {
+    width: 4.093963623046875px;
+    height: 3.041259765625px;
+    flex-shrink: 0;
+    background: rgba(252,252,252,1);
+}
+
+.tickets-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40.8583984375px;
+    padding-top: 2.5px;
+    padding-bottom: 0.5px;
+}
+
+.tickets-0-0-0-1-0 {
+    display: flex;
+}
+
+.tickets-9 {
+    width: 50px;
+    flex-shrink: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-frame_8 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 71.1416015625px;
+    padding-top: 2.5px;
+    padding-bottom: 0.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-0-0-0-2-0 {
+    display: flex;
+    padding-left: 19.8583984375px;
+    padding-right: 3.6416015625px;
+}
+
+.tickets-0-0-0-2-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+.tickets-0-0-0-2-0-0-0 {
+    display: flex;
+}
+
+.tickets-vector_3 {
+    width: 5px;
+    height: 10px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(252,252,252,1);
+}
+
+.tickets-4 {
+    width: 25px;
+    flex-shrink: 0;
+    margin-left: 5px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-0-0-0-2-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+.tickets-0-0-0-2-0-2-0 {
+    display: flex;
+}
+
+.tickets-path-0000003 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.5263156890869141px;
+    padding-bottom: 0.5263156890869141px;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-0-0-0-2-0-2-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+
+.tickets-path-0000010 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.47368431091308594px;
+    padding-bottom: 0.47368431091308594px;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-0-0-0-2-0-2-0-0-0-0-0 {
+    display: flex;
+    padding-left: 0.5px;
+    padding-right: 12px;
+}
+
+.tickets-charge-0 {
+    width: 9px;
+    height: 8px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.tickets-0-0-0-2-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5px;
+    padding-top: 5.5px;
+    padding-bottom: 6.035444259643555px;
+}
+
+.tickets-0-0-0-2-0-3-0 {
+    display: flex;
+}
+
+.tickets-_-0 {
+    width: 1.5px;
+    height: 3.4645557403564453px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,1);
+}
+
+.tickets-1 {
+    display: flex;
+}
+
+.tickets-navigation_bar-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-1-0-0 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.tickets-the_art_museum-0 {
+    width: 50px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-1-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 51.5px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+.tickets-1-0-0-1-0 {
+    display: flex;
+}
+
+.tickets-plan_your_visit-0 {
+    width: 148px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.tickets-1-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 77.5px;
+    padding-top: 9px;
+    padding-bottom: 8px;
+}
+
+.tickets-1-0-0-2-0 {
+    display: flex;
+}
+
+.tickets-bounds-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-1-0-0-2-0-0-0 {
+    display: flex;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.tickets-path-0000015 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-1-0-0-2-0-0-1 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.tickets-path-000002 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-1-0-0-2-0-0-2 {
+    display: flex;
+    margin-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.tickets-path-0000001 {
+    width: 18px;
+    height: 2px;
+    flex-shrink: 0;
+    background: rgba(218,218,218,1);
+}
+
+.tickets-2 {
+    display: flex;
+}
+
+.tickets-content-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 12px;
+    padding-bottom: 1px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-2-0-0 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.tickets-skip_the_line_purchase_tickets_-0 {
+    width: 348px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-1 {
+    display: flex;
+    padding-left: 12px;
+    padding-right: 88px;
+}
+
+.tickets-all_exhibitions_audio_tours_and_films_included_in_the_price_of_admission_-0 {
+    width: 275px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,71,58,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-2 {
+    display: flex;
+    margin-top: 0.510009765625px;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.tickets-2-0-2-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.tickets-2-0-2-0-0 {
+    display: flex;
+}
+
+.tickets-2-0-2-0-0-0 {
+    width: 348px;
+    height: 85px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.tickets-date-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 10px;
+    padding-bottom: 44.27711486816406px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-2-0-2-0-0-0-0-0 {
+    display: flex;
+    padding-left: 15.25px;
+    padding-right: 2.25px;
+}
+
+.tickets-2-0-2-0-0-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 6px;
+}
+
+.tickets-2-0-2-0-0-0-0-0-0-0 {
+    display: flex;
+}
+
+.tickets-today-0 {
+    width: 72px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(212,212,212,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-2-0-0-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24.75px;
+    padding-bottom: 6px;
+}
+
+.tickets-2-0-2-0-0-0-0-0-1-0 {
+    display: flex;
+}
+
+.tickets-tomorrow-0 {
+    width: 125px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(5,5,5,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-2-0-0-0-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 36.75px;
+    padding-top: 6px;
+}
+
+.tickets-2-0-2-0-0-0-0-0-2-0 {
+    display: flex;
+}
+
+.tickets-other-0 {
+    width: 72px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(212,212,212,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-march_2 {
+    width: 348px;
+    flex-grow: 1;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-3 {
+    display: flex;
+    margin-top: 53.04949951171875px;
+    padding-left: 27.556529998779297px;
+    padding-right: 31.875px;
+}
+
+.tickets-adults-0 {
+    width: 70px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-3-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 181.0684700012207px;
+    padding-top: 9.6441650390625px;
+    padding-bottom: 0.3558349609375px;
+}
+
+.tickets-2-0-3-1-0 {
+    display: flex;
+}
+
+.tickets-rectangle_5 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999999983037696px;
+    padding-bottom: 4.635986311162696px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-3-1-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.tickets-vector-0 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-3-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 9px;
+    padding-top: 9.6441650390625px;
+    padding-bottom: 1.8558349609375px;
+}
+
+.tickets-2-0-3-2-0 {
+    display: flex;
+}
+
+.tickets-2-0 {
+    width: 7.5px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-3-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+    padding-top: 9.6441650390625px;
+    padding-bottom: 0.3558349609375px;
+}
+
+.tickets-2-0-3-3-0 {
+    display: flex;
+}
+
+.tickets-rectangle_5-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999999983037696px;
+    padding-bottom: 4.635986311162696px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-3-3-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.tickets-vector-00 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-4 {
+    display: flex;
+    margin-top: 33.489990234375px;
+    padding-left: 27.556529998779297px;
+    padding-right: 31.875px;
+}
+
+.tickets-seniors_6 {
+    width: 94.00000762939453px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-4-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 157.06846237182617px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tickets-2-0-4-1-0 {
+    display: flex;
+}
+
+.tickets-rectangle_5-00 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999999983037696px;
+    padding-bottom: 4.635986311162696px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-4-1-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.tickets-vector-000 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-4-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 9px;
+    padding-top: 5.75px;
+    padding-bottom: 5.75px;
+}
+
+.tickets-2-0-4-2-0 {
+    display: flex;
+}
+
+.tickets-0-0 {
+    width: 7.5px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(212,212,212,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-4-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tickets-2-0-4-3-0 {
+    display: flex;
+}
+
+.tickets-rectangle_5-000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999999983037696px;
+    padding-bottom: 4.635986311162696px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-4-3-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.tickets-vector-0000 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-5 {
+    display: flex;
+    margin-top: 31.9010009765625px;
+    padding-left: 27.25px;
+    padding-right: 31.875px;
+}
+
+.tickets-students_with_id-0 {
+    width: 94px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-5-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 157.375px;
+    padding-top: 4.475006103515625px;
+    padding-bottom: 5.524993896484375px;
+}
+
+.tickets-2-0-5-1-0 {
+    display: flex;
+}
+
+.tickets-rectangle_5-0000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999969465459571px;
+    padding-bottom: 4.636016828740821px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-5-1-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.tickets-vector-00000 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-5-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 9px;
+    padding-top: 5.225006103515625px;
+    padding-bottom: 6.274993896484375px;
+}
+
+.tickets-2-0-5-2-0 {
+    display: flex;
+}
+
+.tickets-0-00 {
+    width: 7.5px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(212,212,212,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-2-0-5-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+    padding-top: 4.475006103515625px;
+    padding-bottom: 5.524993896484375px;
+}
+
+.tickets-2-0-5-3-0 {
+    display: flex;
+}
+
+.tickets-rectangle_5-00000 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4.999969465459571px;
+    padding-bottom: 4.636016828740821px;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-5-3-0-0-0 {
+    display: flex;
+    padding-left: 4.507354736328125px;
+    padding-right: 5.12866159879195px;
+}
+
+.tickets-vector-000003 {
+    width: 6.363983664879925px;
+    height: 6.364013705799607px;
+    flex-shrink: 0;
+    background: rgba(NaN,NaN,NaN,0);
+    border: 1px solid rgba(212,212,212,1);
+}
+
+.tickets-2-0-6 {
+    display: flex;
+    margin-top: 55.04949951171875px;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.tickets-frame_4 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 13.216720581054688px;
+    padding-bottom: 16.783279418945312px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-2-0-6-0-0 {
+    display: flex;
+    padding-left: 14.556529998779297px;
+    padding-right: 32.125px;
+}
+
+.tickets-total-0 {
+    width: 70px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.tickets-_1 {
+    width: 37px;
+    flex-shrink: 0;
+    margin-left: 194.3184700012207px;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.tickets-3 {
+    display: flex;
+    margin-top: 11px;
+}
+
+.tickets-button-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background: rgba(NaN,NaN,NaN,0);
+}
+
+.tickets-3-0-0 {
+    display: flex;
+    padding-left: 64px;
+    padding-right: 63px;
+}
+
+.tickets-rectangle_2 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    background: rgba(255,71,58,1);
+}
+
+.tickets-3-0-0-0-0 {
+    display: flex;
+    padding-left: 15.375999450683594px;
+    padding-right: 11.407997131347656px;
+}
+
+.tickets-continue_to_payment-0 {
+    width: 221.21600341796875px;
+    flex-shrink: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

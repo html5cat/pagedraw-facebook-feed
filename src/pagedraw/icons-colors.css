@@ -1,0 +1,129 @@
+.icons-colors-icons-colors-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    background: #FFFFFF;
+    min-height: 100vh;
+}
+
+.icons-colors-0 {
+    display: flex;
+    padding-left: 11px;
+    padding-right: 38px;
+}
+
+.icons-colors-icon-colors-8 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-7 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-1 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-15 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-5 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-11 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-78 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-6 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-12 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-colors-icon-colors-14 {
+    flex-shrink: 0;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

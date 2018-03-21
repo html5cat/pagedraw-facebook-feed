@@ -1,0 +1,89 @@
+.awsui_form_button_text_first-run-white-awsui_form_button_text_first-run-white-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background: #FFFFFF;
+}
+
+.awsui_form_button_text_first-run-white-0 {
+    display: flex;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.awsui_form_button_text_first-run-white-path-6 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    border-radius: 2px;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.50);
+    background: rgb(255, 255, 255);
+}
+
+.awsui_form_button_text_first-run-white-0-0-0 {
+    display: flex;
+    padding-left: 20px;
+}
+
+.awsui_form_button_text_first-run-white-secondary-5 {
+    width: 68px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

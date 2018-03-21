@@ -1,0 +1,86 @@
+.awsui_form_button_text_secondary-omit-awsui_form_button_text_secondary-omit-1 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    background: #FFFFFF;
+}
+
+.awsui_form_button_text_secondary-omit-0 {
+    display: flex;
+}
+
+.awsui_form_button_text_secondary-omit-path-4 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    border-radius: 2px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #545B64;
+}
+
+.awsui_form_button_text_secondary-omit-0-0-0 {
+    display: flex;
+    padding-left: 19px;
+    padding-right: 24px;
+}
+
+.awsui_form_button_text_secondary-omit-secnd-6 {
+    width: 47px;
+    flex-shrink: 0;
+    font-family: Lato-Bold;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

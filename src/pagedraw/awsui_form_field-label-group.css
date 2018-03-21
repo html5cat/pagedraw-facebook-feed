@@ -1,0 +1,136 @@
+.awsui_form_field-label-group-awsui_form_field-label-group-3 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background: #FFFFFF;
+}
+
+.awsui_form_field-label-group-0 {
+    display: flex;
+}
+
+.awsui_form_field-label-group-0-0 {
+    width: 300px;
+    height: 35px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.awsui_form_field-label-group-description-8 {
+    width: 300px;
+    flex-grow: 1;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_form_field-label-group-label-4 {
+    width: 100px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_form_field-label-group-optional-5 {
+    width: 62px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 106px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.awsui_form_field-label-group-info-8 {
+    width: 22px;
+    flex-grow: 1;
+    position: absolute;
+    top: 1px;
+    left: 176px;
+    font-family: Lato-Regular;
+    color: #000000;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}
